@@ -1,7 +1,7 @@
-Vim for beginners
-=================
+Introduction to Phabricator
+===========================
 
-A slide deck for my presentation introducing Vim to beginners.
+A slide deck for my presentation introducing Phabricator tool suite.
 
 License
 =======
